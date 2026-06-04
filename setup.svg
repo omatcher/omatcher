@@ -1,0 +1,173 @@
+<svg width="100%" viewBox="0 0 320 220" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Setup pixel art — mesa dev com elementos de RPG e board game</title>
+  <desc>Pixel art de setup com monitor menor, quadro de mapa RPG, dados, miniaturas e café</desc>
+  <style>.p{shape-rendering:crispEdges}</style>
+
+  <rect width="320" height="220" fill="#0a0806" class="p"/>
+  <rect x="0" y="0" width="320" height="148" fill="#110d09" class="p"/>
+
+  <!-- QUADRO mapa RPG -->
+  <rect x="8" y="8" width="72" height="58" fill="#2a1a0a" class="p"/>
+  <rect x="10" y="10" width="68" height="54" fill="#1e3018" class="p"/>
+  <rect x="12" y="12" width="64" height="50" fill="#0e1e2a" class="p"/>
+  <rect x="16" y="18" width="22" height="16" fill="#1e3018" class="p"/>
+  <rect x="14" y="22" width="6" height="8" fill="#1e3018" class="p"/>
+  <rect x="36" y="16" width="8" height="10" fill="#1e3018" class="p"/>
+  <rect x="18" y="32" width="12" height="6" fill="#1e3018" class="p"/>
+  <rect x="20" y="20" width="4" height="6" fill="#3a2a10" class="p"/>
+  <rect x="18" y="22" width="8" height="4" fill="#4a3618" class="p"/>
+  <rect x="26" y="22" width="4" height="4" fill="#3a2a10" class="p"/>
+  <rect x="30" y="26" width="4" height="4" fill="#1a4010" class="p"/>
+  <rect x="28" y="28" width="8" height="2" fill="#1a4010" class="p"/>
+  <rect x="46" y="28" width="24" height="20" fill="#1e3018" class="p"/>
+  <rect x="44" y="32" width="4" height="10" fill="#1e3018" class="p"/>
+  <rect x="68" y="30" width="4" height="12" fill="#1e3018" class="p"/>
+  <rect x="52" y="26" width="6" height="8" fill="#4a3618" class="p"/>
+  <rect x="50" y="24" width="2" height="4" fill="#4a3618" class="p"/>
+  <rect x="56" y="24" width="2" height="4" fill="#4a3618" class="p"/>
+  <rect x="38" y="34" width="2" height="14" fill="#0e2a3a" class="p"/>
+  <rect x="36" y="46" width="8" height="2" fill="#0e2a3a" class="p"/>
+  <rect x="12" y="20" width="64" height="1" fill="#0a1a0e" class="p"/>
+  <rect x="12" y="32" width="64" height="1" fill="#0a1a0e" class="p"/>
+  <rect x="12" y="44" width="64" height="1" fill="#0a1a0e" class="p"/>
+  <rect x="24" y="12" width="1" height="50" fill="#0a1a0e" class="p"/>
+  <rect x="48" y="12" width="1" height="50" fill="#0a1a0e" class="p"/>
+  <rect x="54" y="36" width="2" height="6" fill="#8b2020" class="p"/>
+  <rect x="52" y="38" width="6" height="2" fill="#8b2020" class="p"/>
+  <rect x="12" y="56" width="20" height="4" fill="#0e1e10" class="p"/>
+  <rect x="14" y="57" width="4" height="2" fill="#1e4010" class="p"/>
+  <rect x="20" y="57" width="4" height="2" fill="#0e2a3a" class="p"/>
+  <rect x="26" y="57" width="4" height="2" fill="#4a3618" class="p"/>
+  <rect x="8" y="8" width="72" height="3" fill="#5c3a1e" class="p"/>
+  <rect x="8" y="63" width="72" height="3" fill="#5c3a1e" class="p"/>
+  <rect x="8" y="8" width="3" height="58" fill="#5c3a1e" class="p"/>
+  <rect x="77" y="8" width="3" height="58" fill="#5c3a1e" class="p"/>
+  <rect x="43" y="6" width="4" height="4" fill="#3d2510" class="p"/>
+
+  <!-- PRATELEIRA DIREITA -->
+  <rect x="224" y="80" width="90" height="5" fill="#2a1a0a" class="p"/>
+  <rect x="226" y="64" width="8" height="16" fill="#7a4a20" class="p"/>
+  <rect x="235" y="67" width="6" height="13" fill="#5c3010" class="p"/>
+  <rect x="242" y="65" width="7" height="15" fill="#a06030" class="p"/>
+  <rect x="250" y="68" width="5" height="12" fill="#3d2510" class="p"/>
+  <rect x="262" y="68" width="8" height="12" fill="#c9874a" class="p"/>
+  <rect x="260" y="76" width="12" height="4" fill="#a0622a" class="p"/>
+  <rect x="264" y="64" width="4" height="6" fill="#c9874a" class="p"/>
+  <rect x="262" y="62" width="8" height="4" fill="#e8a868" class="p"/>
+  <rect x="263" y="60" width="6" height="4" fill="#c9874a" class="p"/>
+  <rect x="278" y="66" width="14" height="14" fill="#e8c87a" class="p"/>
+  <rect x="280" y="64" width="10" height="2" fill="#e8c87a" class="p"/>
+  <rect x="280" y="80" width="10" height="2" fill="#e8c87a" class="p"/>
+  <rect x="276" y="66" width="2" height="14" fill="#e8c87a" class="p"/>
+  <rect x="292" y="66" width="2" height="14" fill="#e8c87a" class="p"/>
+  <rect x="281" y="70" width="2" height="2" fill="#3d2510" class="p"/>
+  <rect x="286" y="73" width="2" height="2" fill="#3d2510" class="p"/>
+  <rect x="281" y="76" width="2" height="2" fill="#3d2510" class="p"/>
+  <rect x="289" y="70" width="2" height="2" fill="#3d2510" class="p"/>
+  <rect x="289" y="76" width="2" height="2" fill="#3d2510" class="p"/>
+  <rect x="284" y="67" width="2" height="2" fill="#3d2510" class="p"/>
+  <rect x="302" y="66" width="8" height="14" fill="#3a2010" class="p"/>
+  <rect x="298" y="56" width="16" height="12" fill="#1a3a10" class="p"/>
+  <rect x="296" y="60" width="20" height="8" fill="#1e4014" class="p"/>
+  <rect x="303" y="52" width="4" height="6" fill="#1e4014" class="p"/>
+
+  <!-- MESA -->
+  <rect x="0" y="146" width="320" height="10" fill="#3d2510" class="p"/>
+  <rect x="0" y="144" width="320" height="4" fill="#5c3a1e" class="p"/>
+  <rect x="0" y="156" width="320" height="64" fill="#180e08" class="p"/>
+  <rect x="16" y="156" width="10" height="64" fill="#2a1a0a" class="p"/>
+  <rect x="294" y="156" width="10" height="64" fill="#2a1a0a" class="p"/>
+
+  <!-- MONITOR -->
+  <rect x="144" y="128" width="32" height="18" fill="#1a1410" class="p"/>
+  <rect x="150" y="120" width="20" height="10" fill="#1e1814" class="p"/>
+  <rect x="136" y="142" width="48" height="4" fill="#141010" class="p"/>
+  <rect x="96" y="48" width="128" height="76" fill="#141010" class="p"/>
+  <rect x="98" y="50" width="124" height="72" fill="#0e0e0e" class="p"/>
+  <rect x="102" y="54" width="116" height="62" fill="#08080e" class="p"/>
+  <rect x="108" y="60" width="30" height="2" fill="#c9874a" class="p"/>
+  <rect x="142" y="60" width="44" height="2" fill="#5c3a1e" class="p"/>
+  <rect x="108" y="66" width="14" height="2" fill="#5c3a1e" class="p"/>
+  <rect x="126" y="66" width="56" height="2" fill="#a0622a" class="p"/>
+  <rect x="186" y="66" width="22" height="2" fill="#5c3a1e" class="p"/>
+  <rect x="114" y="72" width="70" height="2" fill="#7a4a20" class="p"/>
+  <rect x="114" y="78" width="12" height="2" fill="#c9874a" class="p"/>
+  <rect x="130" y="78" width="36" height="2" fill="#5c3a1e" class="p"/>
+  <rect x="170" y="78" width="28" height="2" fill="#a0622a" class="p"/>
+  <rect x="114" y="84" width="90" height="2" fill="#7a4a20" class="p"/>
+  <rect x="108" y="90" width="22" height="2" fill="#c9874a" class="p"/>
+  <rect x="134" y="90" width="64" height="2" fill="#5c3a1e" class="p"/>
+  <rect x="114" y="96" width="40" height="2" fill="#a0622a" class="p"/>
+  <rect x="158" y="96" width="28" height="2" fill="#7a4a20" class="p"/>
+  <rect x="114" y="102" width="76" height="2" fill="#5c3a1e" class="p"/>
+  <rect x="194" y="102" width="6" height="2" fill="#c9874a" class="p"/>
+  <rect x="108" y="108" width="56" height="2" fill="#7a4a20" class="p"/>
+
+  <!-- XÍCARA -->
+  <rect x="28" y="120" width="36" height="26" fill="#5c3a1e" class="p"/>
+  <rect x="30" y="122" width="32" height="22" fill="#7a4a20" class="p"/>
+  <rect x="32" y="124" width="28" height="18" fill="#2a1408" class="p"/>
+  <rect x="32" y="124" width="28" height="4" fill="#3d1e0a" class="p"/>
+  <rect x="36" y="126" width="8" height="2" fill="#5c2e10" class="p"/>
+  <rect x="60" y="128" width="6" height="12" fill="#5c3a1e" class="p"/>
+  <rect x="58" y="130" width="4" height="8" fill="#7a4a20" class="p"/>
+  <rect x="22" y="144" width="48" height="4" fill="#3d2510" class="p"/>
+  <rect x="20" y="146" width="52" height="2" fill="#5c3a1e" class="p"/>
+  <rect x="36" y="112" width="2" height="6" fill="#2a1e14" class="p"/>
+  <rect x="34" y="108" width="2" height="4" fill="#2a1e14" class="p"/>
+  <rect x="38" y="106" width="2" height="6" fill="#2a1e14" class="p"/>
+  <rect x="48" y="110" width="2" height="8" fill="#2a1e14" class="p"/>
+  <rect x="46" y="106" width="2" height="4" fill="#2a1e14" class="p"/>
+
+  <!-- MOUSEPAD + MOUSE -->
+  <rect x="168" y="142" width="80" height="6" fill="#1a1208" class="p"/>
+  <rect x="170" y="140" width="76" height="4" fill="#252018" class="p"/>
+  <rect x="188" y="128" width="24" height="14" fill="#1e1814" class="p"/>
+  <rect x="190" y="126" width="20" height="12" fill="#2a2218" class="p"/>
+  <rect x="198" y="126" width="2" height="12" fill="#1a1410" class="p"/>
+  <rect x="199" y="128" width="4" height="4" fill="#c9874a" class="p"/>
+
+  <!-- DADO d20 na mesa -->
+  <rect x="84" y="132" width="20" height="14" fill="#1a1008" class="p"/>
+  <rect x="86" y="130" width="16" height="2" fill="#1a1008" class="p"/>
+  <rect x="86" y="144" width="16" height="2" fill="#1a1008" class="p"/>
+  <rect x="85" y="132" width="18" height="14" fill="#c9874a" class="p"/>
+  <rect x="93" y="132" width="2" height="14" fill="#a0622a" class="p"/>
+  <rect x="85" y="138" width="18" height="2" fill="#a0622a" class="p"/>
+  <rect x="87" y="134" width="4" height="2" fill="#3d2510" class="p"/>
+  <rect x="87" y="141" width="4" height="2" fill="#3d2510" class="p"/>
+  <rect x="96" y="134" width="4" height="2" fill="#3d2510" class="p"/>
+
+  <!-- DADO d6 na mesa -->
+  <rect x="254" y="136" width="12" height="10" fill="#e8c87a" class="p"/>
+  <rect x="256" y="134" width="8" height="2" fill="#e8c87a" class="p"/>
+  <rect x="256" y="146" width="8" height="2" fill="#e8c87a" class="p"/>
+  <rect x="252" y="136" width="2" height="10" fill="#e8c87a" class="p"/>
+  <rect x="266" y="136" width="2" height="10" fill="#e8c87a" class="p"/>
+  <rect x="256" y="139" width="2" height="2" fill="#3d2510" class="p"/>
+  <rect x="261" y="142" width="2" height="2" fill="#3d2510" class="p"/>
+  <rect x="256" y="143" width="2" height="2" fill="#3d2510" class="p"/>
+
+  <!-- MINIATURA RPG na mesa -->
+  <rect x="276" y="126" width="8" height="18" fill="#a0622a" class="p"/>
+  <rect x="274" y="136" width="12" height="6" fill="#7a4a20" class="p"/>
+  <rect x="278" y="120" width="4" height="8" fill="#a0622a" class="p"/>
+  <rect x="276" y="118" width="8" height="4" fill="#c9874a" class="p"/>
+  <rect x="277" y="116" width="6" height="4" fill="#a0622a" class="p"/>
+  <rect x="268" y="126" width="6" height="8" fill="#5c3a1e" class="p"/>
+  <rect x="270" y="128" width="2" height="4" fill="#c9874a" class="p"/>
+  <rect x="272" y="142" width="16" height="4" fill="#5c3010" class="p"/>
+
+  <!-- CARTAS de board game -->
+  <rect x="150" y="134" width="14" height="10" fill="#1e1810" class="p"/>
+  <rect x="152" y="132" width="14" height="10" fill="#252018" class="p"/>
+  <rect x="154" y="130" width="14" height="10" fill="#2a2218" class="p"/>
+  <rect x="156" y="132" width="10" height="6" fill="#1a1008" class="p"/>
+  <rect x="157" y="133" width="8" height="4" fill="#5c3a1e" class="p"/>
+  <rect x="159" y="134" width="4" height="2" fill="#c9874a" class="p"/>
+
+  <!-- PAPEL na mesa -->
+  <rect x="230" y="138" width="20" height="8" fill="#1e1c18" class="p"/>
+  <rect x="232" y="140" width="16" height="2" fill="#3a3428" class="p"/>
+  <rect x="232" y="143" width="10" height="1" fill="#3a3428" class="p"/>
+</svg>

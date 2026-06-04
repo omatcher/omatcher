@@ -1,0 +1,63 @@
+<svg width="100%" viewBox="0 0 900 280" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Banner de perfil do omatcher</title>
+  <desc>Desenvolvedor ERP, TOTVS Protheus, Python, SQL, automações</desc>
+
+  <!-- Background -->
+  <rect width="900" height="280" fill="#0e0b09"/>
+
+  <!-- Left accent bar -->
+  <rect x="0" y="0" width="5" height="280" fill="#a0622a"/>
+
+  <!-- Subtle grid lines -->
+  <line x1="52" y1="0" x2="52" y2="280" stroke="#1e1410" stroke-width="0.5"/>
+  <line x1="0" y1="234" x2="900" y2="234" stroke="#1e1410" stroke-width="0.5"/>
+
+  <!-- Corner bracket top-left -->
+  <path d="M57 22 L57 14 L78 14" stroke="#a0622a" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <!-- Corner bracket bottom-right -->
+  <path d="M843 258 L843 266 L822 266" stroke="#5c3a1e" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+
+  <!-- Accent lines under bracket -->
+  <line x1="57" y1="38" x2="260" y2="38" stroke="#2a1f14" stroke-width="0.5"/>
+  <line x1="57" y1="43" x2="180" y2="43" stroke="#1e1410" stroke-width="0.5"/>
+
+  <!-- TAG label -->
+  <rect x="57" y="50" width="88" height="22" rx="3" fill="#1e1208"/>
+  <text x="70" y="65" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#a0622a" letter-spacing="1">PROTHEUS</text>
+
+  <!-- Main name -->
+  <text x="57" y="152" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="78" font-weight="700" fill="#c9874a" letter-spacing="-2">omatcher</text>
+
+  <!-- Cursor block -->
+  <rect x="538" y="124" width="38" height="8" rx="1" fill="#a0622a" opacity="0.7"/>
+
+  <!-- Subtitle -->
+  <text x="57" y="182" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="15" fill="#7a5535" letter-spacing="0.5">Desenvolvedor ERP · TOTVS Protheus · Automação</text>
+
+  <!-- Divider -->
+  <line x1="57" y1="198" x2="580" y2="198" stroke="#2a1f14" stroke-width="0.5"/>
+
+  <!-- Stack pills -->
+  <rect x="57" y="208" width="66" height="20" rx="3" fill="#1a1008"/>
+  <text x="69" y="222" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#c9874a">ADVPL</text>
+
+  <rect x="131" y="208" width="54" height="20" rx="3" fill="#1a1008"/>
+  <text x="143" y="222" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#c9874a">TLPP</text>
+
+  <rect x="193" y="208" width="66" height="20" rx="3" fill="#1a1008"/>
+  <text x="205" y="222" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#c9874a">Python</text>
+
+  <rect x="267" y="208" width="46" height="20" rx="3" fill="#1a1008"/>
+  <text x="279" y="222" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#c9874a">SQL</text>
+
+  <!-- Terminal prompt -->
+  <text x="57" y="258" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12" fill="#3a2810">omatcher@protheus:~$ _</text>
+
+  <!-- Right side decorative braces -->
+  <text x="790" y="168" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="120" font-weight="700" fill="#160f08" text-anchor="middle">{}</text>
+
+  <!-- Dot cluster top-right -->
+  <circle cx="830" cy="36" r="3" fill="#2a1f14"/>
+  <circle cx="844" cy="36" r="3" fill="#2a1f14"/>
+  <circle cx="858" cy="36" r="3" fill="#2a1f14"/>
+</svg>
